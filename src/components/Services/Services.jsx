@@ -27,9 +27,19 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          Lorem ispum is simpley dummy text of printing of printing Lorem
+        Expert in building robust web applications using MongoDB, Express, React, and Node.js. I offer:
           <br />
-          ispum is simpley dummy text of printing
+          RESTful API integration
+          <br />
+          Redux & Context API for state management
+          <br />
+          Secure auth with JWT & OAuth
+          <br />
+          MongoDB database design
+          <br />
+          Git workflows
+          <br />
+          Deployment on AWS & Heroku
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
