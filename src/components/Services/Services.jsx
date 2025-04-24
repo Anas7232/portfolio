@@ -35,11 +35,11 @@ const Services = () => {
           <br />
           Secure auth with JWT & OAuth
           <br />
-          MongoDB database design
+          MongoDB database
           <br />
           Git workflows
           <br />
-          Deployment on AWS & Heroku
+          Deployment on AWS, Heroku & Vercel
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
